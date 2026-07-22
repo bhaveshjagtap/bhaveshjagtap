@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Cloud & DevOps Engineer
 -------------------------
 
-* 🌍  I'm based in india
+* 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [Bhavesh-jagtap-portfolio](http://bhavesh-jagtap-portfolio.vercel.app)
 * ✉️  You can contact me at [bhavesh.jagtap1011@gmail.com](mailto:bhavesh.jagtap1011@gmail.com)
 * 🧠  I'm currently learning Cloud & DevOps
